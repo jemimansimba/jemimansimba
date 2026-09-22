@@ -1,7 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Jemima! 👋
 
 <!--
 **jemimansimba/jemimansimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## About Me 🚀
+I'm a Business Analytics & Information Systems student at the Tippie College of Business | University of Iowa. I'm interested in data analytics, information systems, and using data to solve business problems. I enjoy learning new technology, working with data, and building projects that help me strengthen my analytical and technical skills.
+
+## My Skills 🧠
+
 
 Here are some ideas to get you started:
 
